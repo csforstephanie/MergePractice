@@ -1,0 +1,4 @@
+Line 1: Happy Day
+Line 2: sunshine
+Line 3: coding is fun
+Line 4: My name is Stephanie
