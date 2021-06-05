@@ -1,5 +1,5 @@
 Line 1: Happy Day
 Line 2: sunshine
 Line 3: coding is fun
-Line 4: My name is Prince
-Line 5: Prince added a line 5
+Line 4: My name is Aretha
+Line 5: Aretha added the 5th line
